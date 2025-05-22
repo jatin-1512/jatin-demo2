@@ -1,3 +1,3 @@
 # jatin-demo2
 This is my second Git repository
-Authot- jatin
+Authot- jatin verma CSE AIML
